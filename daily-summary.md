@@ -29,13 +29,7 @@ Exercise::0
 [ ] Goal 2
 [ ] Goal 3
 
-## 🧠 Morning Thoughts
-
-<!-- Space for morning thoughts, reflections, and plans for the day -->
-
-## 📓General Notes
-
-<!-- General notes for thoughts throughout the day -->
+## 🧠 Top of Mind
 
 ## Exercise:
 
@@ -45,20 +39,7 @@ Exercise::0
 
 ## 📖 Learning
 
-- What I learned today:
-- Resources used:
-
-## 😴 Sleep Log
-
-- Time slept:
-- Sleep quality (1-5):
-- Notes:
-
 ## ✨ Highlight of the day
-
-## 🪞Evening Reflection
-
-<!-- Use this space for end of day thoughts and planning for tomorrow -->
 
 ## 🗒️Notes Created/Edited Today
 
