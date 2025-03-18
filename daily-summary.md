@@ -25,9 +25,9 @@ Exercise::0
 
 <!-- Set no more than 3 goals for a single day. What do you want to get done today? -->
 
-[ ] Goal 1
-[ ] Goal 2
-[ ] Goal 3
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
 
 ## 🧠 Top of Mind
 
